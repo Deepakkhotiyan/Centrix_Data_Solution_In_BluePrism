@@ -7,6 +7,10 @@ The centrix Data Solution is Window Based Application.
 
 <img width="839" alt="Login" src="https://github.com/Deepakkhotiyan/Centrix_Data_Solution_In_BluePrism/assets/87259147/4bf226b6-61ca-4c51-8f32-6498a6137036">
 
+--> Object Studio
+
+
+
 
 
 
